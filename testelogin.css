@@ -1,2 +1,6 @@
 .texto1{
-    border-style: solid;  }
+    border-style: solid;
+background-color: aqua;
+transition-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+padding-left: 10px;
+padding-right: 10px;  }
