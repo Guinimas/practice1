@@ -1,5 +1,7 @@
-.span-example{
-    height: 100px;
-    background-color: red;
+.texto1{
+    font-weight: bold;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
 
 }
